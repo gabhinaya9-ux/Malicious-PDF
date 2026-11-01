@@ -1,0 +1,34 @@
+# Core PDF analysis
+PyMuPDF==1.24.0
+pdfminer.six==20231228
+pdfplumber==0.11.0
+
+# Machine Learning
+scikit-learn==1.4.2
+xgboost==2.0.3
+imbalanced-learn==0.12.2
+
+# Explainability
+shap==0.45.0
+
+# Data handling
+numpy==1.26.4
+pandas==2.2.2
+
+# Entropy / crypto
+scipy==1.13.0
+
+# Web application
+streamlit==1.35.0
+plotly==5.22.0
+matplotlib==3.9.0
+seaborn==0.13.2
+
+# Report generation
+fpdf2==2.7.9
+Pillow==10.3.0
+
+# Utilities
+joblib==1.4.2
+tqdm==4.66.4
+python-magic-bin==0.4.14; sys_platform == "win32"
